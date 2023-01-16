@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BusinessLayer</id>
+    <version>1.0.0</version>
+    <authors>BusinessLayer</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="DataLayer" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper.Extensions.Microsoft.DependencyInjection" version="8.1.1" exclude="Build,Analyzers" />
+        <dependency id="EPPlus" version="5.7.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="5.0.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Proxies" version="5.0.7" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="5.0.7" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="106.11.7" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.1.4" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="5.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\BusinessLayer.runtimeconfig.json" target="lib\netcoreapp3.1\BusinessLayer.runtimeconfig.json" />
+    <file src="C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\BusinessLayer.dll" target="lib\netcoreapp3.1\BusinessLayer.dll" />
+  </files>
+</package>

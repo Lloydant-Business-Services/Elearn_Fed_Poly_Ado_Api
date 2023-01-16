@@ -1,0 +1,14 @@
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\BusinessLayer.deps.json
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\BusinessLayer.runtimeconfig.json
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\BusinessLayer.runtimeconfig.dev.json
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\BusinessLayer.dll
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\BusinessLayer.pdb
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\DataLayer.dll
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\bin\Release\netcoreapp3.1\win-x86\DataLayer.pdb
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\obj\Release\netcoreapp3.1\win-x86\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\obj\Release\netcoreapp3.1\win-x86\BusinessLayer.AssemblyInfo.cs
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\obj\Release\netcoreapp3.1\win-x86\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\obj\Release\netcoreapp3.1\win-x86\BusinessLayer.csproj.CopyComplete
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\obj\Release\netcoreapp3.1\win-x86\BusinessLayer.dll
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\obj\Release\netcoreapp3.1\win-x86\BusinessLayer.pdb
+C:\Users\macbook\Documents\Projects\ELearnNG_2.0\BusinessLayer\obj\Release\netcoreapp3.1\win-x86\BusinessLayer.genruntimeconfig.cache
